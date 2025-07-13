@@ -1,4 +1,5 @@
 {
   "url": "https://boxy.gift",
-  "name": "Boxy"
+  "name": "Boxy",
+  "iconUrl": "https://raw.githubusercontent.com/boxygift/ton-connect/refs/heads/main/logo.png"
 }
